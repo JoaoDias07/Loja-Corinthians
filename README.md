@@ -4,10 +4,10 @@ Projeto de Flutter Fatec AMS
 
 ## Integrantes
 
-Yan Miguel Siqueira
-\nIgor Daltio Vasconcelos
-\nJoão Henrique Nunes Dias
-\nYasmin Cristhina Lopes
+###Yan Miguel Siqueira
+###Igor Daltio Vasconcelos
+###João Henrique Nunes Dias
+###Yasmin Cristhina Lopes
 
 ## Tema
 
